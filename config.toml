@@ -1,0 +1,9 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Example Blog"
+theme = "elephants"
+themesDir = "themes"
+publishDir = "public"
+
+[params]
+sitename = "Elephants"
